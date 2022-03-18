@@ -1,5 +1,5 @@
 {
-  "name": "convoforta",
+  "name": "omnidforta",
   "version": "1.0.0",
   "description": "Omind's Trust Analyser Forta Agent",
   "scripts": {
@@ -19,9 +19,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@theconvospace/sdk": "^0.3.15",
     "bignumber.js": "^9.0.1",
-    "forta-agent": "^0.0.34"
+    "forta-agent": "^0.0.40"
   },
   "devDependencies": {
     "@types/jest": "^27.0.1",
@@ -30,5 +29,6 @@
     "nodemon": "^2.0.8",
     "ts-jest": "^27.0.3",
     "typescript": "^4.3.4"
-  }
+  },
+  "chainIds": [1, 137]
 }
