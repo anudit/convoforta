@@ -4,6 +4,8 @@
 
 This agent detects transactions with suspicious/malicious addresses.
 
+https://explorer.forta.network/agent/0xae7768149d6b16d5d0904211a0a8f396abef9e855ae74786c4f542d0b3b705e1
+
 ## Supported Chains
 
 - Ethereum
